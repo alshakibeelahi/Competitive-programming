@@ -1,1 +1,0 @@
-{"name":"Local: DFS","url":"d:\\Code\\CP\\My Shortcut\\DFS.cpp","tests":[{"id":1656486132378,"input":"7 8\n1 2\n1 0\n3 4\n4 6\n4 5\n6 7\n5 6\n1 5","output":"2\n1\n3\n5\n6\n4\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CP\\My Shortcut\\DFS.cpp","group":"local","local":true}

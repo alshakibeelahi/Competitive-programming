@@ -1,1 +1,0 @@
-{"name":"Local: CycleDetection","url":"d:\\Code\\CP\\My Shortcut\\CycleDetection.cpp","tests":[{"id":1657092236333,"input":"5 10 10\nA G\nA H\nB F\nB I\nB J\nC G\nC H\nD G\nD H\nE J","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CP\\My Shortcut\\CycleDetection.cpp","group":"local","local":true}
