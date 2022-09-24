@@ -1,0 +1,1 @@
+{"name":"Local: Test","url":"d:\\Code\\CP\\My Shortcut\\Test.cpp","tests":[{"id":1660544977519,"input":"3\n2\n1\n1","output":"3\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CP\\My Shortcut\\Test.cpp","group":"local","local":true}
