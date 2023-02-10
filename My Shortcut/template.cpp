@@ -38,18 +38,13 @@ bool srtBys(const pair<int,int> &a,const pair<int,int> &b){return (a.second > b.
 
 
 void solve() {
-    int n;
-    cin>>n;
-    vector<int> v(n);
-    cin>>v;
-    uniqVec(v);
-    cout<<v;
+    
 }
 
 int32_t main()
 {
     Code By Elahi;
-    ll t;
+    ll t=1;
     cin>>t;
     For(i,0,t)
     {
