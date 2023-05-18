@@ -41,8 +41,17 @@ void solve() {
     int n;
     cin>>n;
     vector<int> v(n);
+    vector<int> ev, odd;
     cin>>v;
-    cout<<v;
+    For(i,0,n){
+        if(v[i]%2==0) ev.pb(v[i]);
+        else odd.pb(v[i]);
+    }
+    ll mh = sumv(ev);
+    ll ot = sumv(odd);
+    if(mh>ot) yes;
+    else no;
+
 }
 
 int32_t main()
@@ -50,7 +59,7 @@ int32_t main()
     Code By Elahi;
     clock_t z = clock();
     ll t=1;
-    //cin>>t;
+    cin>>t;
     For(i,0,t)
     {
         solve();
